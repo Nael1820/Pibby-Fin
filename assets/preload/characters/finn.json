@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				46,
+				-51
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "FINN_DOWN"
+		},
+		{
+			"offsets": [
+				43,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "FINN_UP"
+		},
+		{
+			"offsets": [
+				-33,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "FINN_ALT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "FINN_IDLE"
+		},
+		{
+			"offsets": [
+				99,
+				46
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "FINN_RIGHT"
+		},
+		{
+			"offsets": [
+				-65,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "FINN_LEFT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/FINN_THE_HUMAN",
+	"position": [
+		-20,
+		-10
+	],
+	"healthicon": "finn",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		0,
+		-70
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

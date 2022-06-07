@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				-160
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "finn idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				52,
+				-280
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "finn down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-56,
+				-20
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "finn up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				233,
+				-19
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "finn attack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				-153
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "finn left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				-151
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "finn right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Ofinn",
+	"position": [
+		30,
+		50
+	],
+	"healthicon": "Ofinn",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		120,
+		200
+	],
+	"camera_position": [
+		-170,
+		-70
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}
