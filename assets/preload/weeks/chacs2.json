@@ -1,0 +1,26 @@
+{
+	"storyName": "a remastering, why not?",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "bruh",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"New-Phantasm",
+			"pfinn",
+			[
+				120,
+				140,
+				160
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "chachs"
+}

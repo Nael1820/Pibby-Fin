@@ -1,0 +1,26 @@
+{
+	"storyName": "this is the request",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "bruh",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Old-Phantasm",
+			"ofinn",
+			[
+				100,
+				180,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "chachs"
+}
